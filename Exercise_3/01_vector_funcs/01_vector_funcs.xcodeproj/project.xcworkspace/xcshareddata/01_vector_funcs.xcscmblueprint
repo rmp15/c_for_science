@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A028D11D167E2A1D2E176F3E6D7AD55389ACCE4B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4EBD6701F1B3E20385FB994670DD85E2F24D3B83" : 0,
+    "A028D11D167E2A1D2E176F3E6D7AD55389ACCE4B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "00E67480-57AB-4BE7-B1FB-9321B70E033C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4EBD6701F1B3E20385FB994670DD85E2F24D3B83" : "",
+    "A028D11D167E2A1D2E176F3E6D7AD55389ACCE4B" : "c_for_science\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "01_vector_funcs",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Exercise_3\/01_vector_funcs\/01_vector_funcs.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rmp15\/temperature.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EBD6701F1B3E20385FB994670DD85E2F24D3B83"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rmp15\/c_for_science.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A028D11D167E2A1D2E176F3E6D7AD55389ACCE4B"
+    }
+  ]
+}
